@@ -45,15 +45,16 @@ The program is fully menu-driven and runs in a console environment.
 ---
 
 ## 📂 Project Structure
----
+
+```
 Telephone-Directory/
 │
-├── main.c # Main menu and program execution
-├── directory.c # All directory operations implementation
-├── directory.h # Structure definition and function prototypes
-├── data.txt # Stored contact data (generated automatically)
+├── main.c          # Main menu and program execution
+├── directory.c     # All directory operations implementation
+├── directory.h     # Structure definition and function prototypes
+├── data.txt        # Stored contact data (generated automatically)
 └── README.md
----
+```
 
 ## ⚙️ How to Run (Using CodeBlocks)
 
