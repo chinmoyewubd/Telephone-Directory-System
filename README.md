@@ -45,6 +45,7 @@ The program is fully menu-driven and runs in a console environment.
 ---
 
 ## 📂 Project Structure
+---
 Telephone-Directory/
 │
 ├── main.c # Main menu and program execution
